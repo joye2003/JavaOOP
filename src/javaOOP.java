@@ -16,5 +16,6 @@ public class javaOOP {
         System.out.println("car1 has "+car1.getWheel()+" wheels.");
         System.out.println("car2 has "+car2.getWheel()+" wheels.");
         System.out.println("car has "+car.getWheel()+" wheels.");
+	System.out.print("============================================");
     }
 }
