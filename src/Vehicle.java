@@ -1,5 +1,5 @@
 public class Vehicle {
-    int wheel;
+    private int wheel;
     public void setWheel(int n){
         wheel = n;
     }
