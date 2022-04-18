@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="613ec50d-4e99-42ba-aef7-e596ff951fe8" name="Changes" comment="20220418">
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+    <list default="true" id="613ec50d-4e99-42ba-aef7-e596ff951fe8" name="Changes" comment="202204182">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javaOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaOOP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -72,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650259038702</updated>
-      <workItem from="1650259040022" duration="1566000" />
+      <workItem from="1650259040022" duration="3118000" />
     </task>
     <task id="LOCAL-00001" summary="20220418">
       <created>1650259115189</created>
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650259115189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="202204182">
+      <created>1650260921356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650260921356</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20220418" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220418" />
+    <MESSAGE value="202204182" />
+    <option name="LAST_COMMIT_MESSAGE" value="202204182" />
   </component>
 </project>
